@@ -4,7 +4,7 @@
 
 **Senior Backend Developer | Financial Domain Specialist**
 
-AML · MyData · Payment & Settlement | Java · Spring | 11 Years
+AML · MyData · Payment & Settlement | Java · Spring | 10 Years
 
 [![Resume](https://img.shields.io/badge/Resume_&_Portfolio-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/byseungje/resume)
 [![Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seungje_labs/posts)
@@ -13,7 +13,7 @@ AML · MyData · Payment & Settlement | Java · Spring | 11 Years
 
 ---
 
-금융 도메인에서 **대규모 배치 처리**, **레거시 현대화**, **결제 아키텍처 설계**를 해온 11년차 백엔드 개발자입니다.
+금융 도메인에서 **대규모 배치 처리**, **레거시 현대화**, **결제 아키텍처 설계**를 해온 10년차 백엔드 개발자입니다.
 AML + MyData + 결제정산을 동시에 경험한 시장 희소 인력(1.5-3%)이며, **CTO 2회 · PM 2회 · PL 1회** 팀 리딩을 수행했습니다.
 
 ### Highlights
